@@ -1,0 +1,7 @@
+# Name must be less than 16 characters long!
+if SHIELD_CORNE_WIRED
+
+config ZMK_KEYBOARD_NAME
+    default "corne_wired"
+
+endif

@@ -1,0 +1,9 @@
+file_format: "1"
+id: corne_wired
+name: Corne_wired
+type: shield
+url:
+requires: [pro_micro]
+exposes: 
+features:
+  - keys

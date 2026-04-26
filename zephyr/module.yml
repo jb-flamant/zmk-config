@@ -1,0 +1,4 @@
+name: zmk-keyboard-corne_wired
+build:
+  settings:
+    board_root: .
