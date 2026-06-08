@@ -1,7 +1,9 @@
 include:
   - board: nice_nano//zmk
     shield: corne_wired
+    artifact-name: corne_wired
 
   - board: nice_nano//zmk
     shield: corne_wired
     snippet: miryoku-numrow
+    artifact-name: corne_wired-numrow

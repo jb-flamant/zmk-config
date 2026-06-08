@@ -1,1 +1,3 @@
-description: Enable MIRYOKU_USE_NUMROW for the Miryoku numrow layer variant
+name: miryoku-numrow
+append:
+  DTS_EXTRA_CPPFLAGS: -DMIRYOKU_USE_NUMROW
