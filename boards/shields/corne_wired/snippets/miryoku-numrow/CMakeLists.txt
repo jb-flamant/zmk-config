@@ -1,0 +1,1 @@
+zephyr_compile_options(-DMIRYOKU_USE_NUMROW)
